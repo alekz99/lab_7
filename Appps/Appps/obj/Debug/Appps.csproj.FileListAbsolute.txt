@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Appps\Appps\bin\Debug\Appps.exe.config
+C:\Users\1\source\repos\Appps\Appps\bin\Debug\Appps.exe
+C:\Users\1\source\repos\Appps\Appps\bin\Debug\Appps.pdb
+C:\Users\1\source\repos\Appps\Appps\obj\Debug\Appps.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Appps\Appps\obj\Debug\Appps.Properties.Resources.resources
+C:\Users\1\source\repos\Appps\Appps\obj\Debug\Appps.RunningForm.resources
+C:\Users\1\source\repos\Appps\Appps\obj\Debug\Appps.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Appps\Appps\obj\Debug\Appps.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Appps\Appps\obj\Debug\Appps.exe
+C:\Users\1\source\repos\Appps\Appps\obj\Debug\Appps.pdb

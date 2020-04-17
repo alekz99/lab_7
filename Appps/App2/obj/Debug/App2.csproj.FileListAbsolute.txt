@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Appps\App2\bin\Debug\App2.exe.config
+C:\Users\1\source\repos\Appps\App2\bin\Debug\App2.exe
+C:\Users\1\source\repos\Appps\App2\bin\Debug\App2.pdb
+C:\Users\1\source\repos\Appps\App2\obj\Debug\App2.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Appps\App2\obj\Debug\App2.ColorPicker.resources
+C:\Users\1\source\repos\Appps\App2\obj\Debug\App2.Properties.Resources.resources
+C:\Users\1\source\repos\Appps\App2\obj\Debug\App2.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Appps\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Appps\App2\obj\Debug\App2.exe
+C:\Users\1\source\repos\Appps\App2\obj\Debug\App2.pdb
